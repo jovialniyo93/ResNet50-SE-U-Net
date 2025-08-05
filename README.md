@@ -1,4 +1,4 @@
-# ResNet50-SE-U-Net#
+# ResNet50-SE-U-Net #
 
 The code in this repository is supplementary to our future publication "A Hybrid Deep Learning Method Integrating ResNet50-SE-U-Net and Test Time Augmentation Techniques for Efficient Cell Segmentation " 
 
