@@ -72,7 +72,7 @@ Training and validation loss curves<br/>
 
 Quantitative result comparison of the proposed models on iPS dataset<br/>
 <p align="center">
-<img src="img/result.png">
+<img src="img/result.PNG">
 </p>
 
 Qualitative result comparison of the models trained and tested on iPS <br/>
